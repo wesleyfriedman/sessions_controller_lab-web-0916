@@ -1,5 +1,5 @@
 # Sessions Controller Lab
-
+#important t-shirt business - let's do it
 ## Objectives
 
 We're going to build a Rails app that handles sessions with a `SessionsController`. We won't have passwords—for now, we're going to ask the user what to call them, and we'll just use that as their username.
